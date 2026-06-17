@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Launcher Du R obligatoire",
+      "description": "Les jeux ne sont plus lançables via navigateur. Le Launcher Du R devient obligatoire pour accéder aux jeux. Les anciennes licences des versions navigateur seront progressivement désactivées et supprimées.",
+      "date": "2026-06-18",
+      "time": "22:30",
+      "icon": "⚠",
+      "gameId": ""
+    },
+    {
       "title": "Gratt-Gratt Du R en cours de développement",
       "description": "Le jeu Gratt-Gratt Du R est en cours de développement. Ticket à 30 points, jusqu'à 300 points à gagner.",
       "date": "2026-06-18",
