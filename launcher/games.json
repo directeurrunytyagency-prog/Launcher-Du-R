@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "launcherName": "Launcher Du R",
-  "launcherVersion": "2.0.2",
+  "launcherVersion": "2.0.3",
   "remoteGamesUrl": "https://raw.githubusercontent.com/directeurrunytyagency-prog/Launcher-Du-R/main/launcher/games.json",
   "officialSiteUrl": "https://github.com/directeurrunytyagency-prog/Launcher-Du-R",
   "licenseRequestUrl": "https://github.com/directeurrunytyagency-prog/Launcher-Du-R/issues/new?title=Demande%20de%20licence",
@@ -52,7 +52,7 @@
       "version": "A venir",
       "installedVersion": "A venir",
       "derniereVersion": "A venir",
-      "icone": "launcher/assets/gratt-gratt.png",
+      "icone": "launcher/assets/gratt-gratt.ico",
       "image": "launcher/assets/gratt-gratt.png",
       "githubOwner": "",
       "githubRepo": "",
