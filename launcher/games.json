@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "launcherName": "Launcher Du R",
-  "launcherVersion": "1.0.1",
+  "launcherVersion": "2.0.2",
   "remoteGamesUrl": "https://raw.githubusercontent.com/directeurrunytyagency-prog/Launcher-Du-R/main/launcher/games.json",
   "officialSiteUrl": "https://github.com/directeurrunytyagency-prog/Launcher-Du-R",
   "licenseRequestUrl": "https://github.com/directeurrunytyagency-prog/Launcher-Du-R/issues/new?title=Demande%20de%20licence",
@@ -17,7 +17,7 @@
       "description": "Jeu de ballons neon avec ecran de licence Supabase au demarrage.",
       "version": "1.0.0",
       "installedVersion": "1.0.0",
-      "derniereVersion": "1.0.0",
+      "derniereVersion": "1.0.1",
       "icone": "launcher/assets/ballon-rush.png",
       "image": "launcher/assets/ballon-rush.png",
       "githubOwner": "directeurrunytyagency-prog",
@@ -44,6 +44,27 @@
       "installFolder": "dist/FlashCartonDuR-Windows",
       "visible": true,
       "enabled": true
+    },
+    {
+      "id": "gratt-gratt-du-r",
+      "nom": "Gratt-Gratt Du R",
+      "description": "Ticket à 30 points • Jusqu'à 300 points à gagner.",
+      "version": "A venir",
+      "installedVersion": "A venir",
+      "derniereVersion": "A venir",
+      "icone": "launcher/assets/gratt-gratt.png",
+      "image": "launcher/assets/gratt-gratt.png",
+      "githubOwner": "",
+      "githubRepo": "",
+      "assetName": "",
+      "exeName": "",
+      "installFolder": "",
+      "statusLabel": "🚧 BIENTÔT DISPONIBLE 🚧",
+      "primaryLabel": "BIENTÔT DISPONIBLE",
+      "accent": "gold",
+      "placeholder": true,
+      "visible": true,
+      "enabled": false
     }
   ]
 }
