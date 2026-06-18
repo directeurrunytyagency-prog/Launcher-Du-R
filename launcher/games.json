@@ -33,7 +33,7 @@
       "nom": "Flash Carton du R",
       "description": "Jeu Flash Carton du R installe et mis a jour depuis GitHub Releases.",
       "version": "1.0.0",
-      "derniereVersion": "1.1.0",
+      "derniereVersion": "1.1.1",
       "icone": "launcher/assets/flash-carton.png",
       "image": "launcher/assets/flash-carton.png",
       "githubOwner": "directeurrunytyagency-prog",
