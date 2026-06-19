@@ -1,6 +1,14 @@
 {
   "news": [
     {
+      "title": "Gratt-Gratt Du R disponible",
+      "description": "Gratt-Gratt Du R est maintenant disponible dans le Launcher Du R. Installez le jeu et tentez votre chance avec les tickets a gratter jusqu'a 300 points a gagner.",
+      "date": "2026-06-19",
+      "time": "16:45",
+      "icon": "+",
+      "gameId": "gratt-gratt-du-r"
+    },
+    {
       "title": "Launcher Du R obligatoire",
       "description": "Les jeux ne sont plus lancables via navigateur. Le Launcher Du R devient obligatoire pour acceder aux jeux. Les anciennes licences des versions navigateur seront progressivement desactivees et supprimees.",
       "date": "2026-06-18",
