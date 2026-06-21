@@ -1,6 +1,22 @@
 {
   "news": [
     {
+      "title": "KAYOWNA annonce officielle",
+      "description": "Kayowna rejoint officiellement le Launcher Du R. Ce MMORPG multijoueur est actuellement en cours de developpement et proposera un vaste monde a explorer, des quetes, des donjons, des guildes, des boss et une aventure evolutive en ligne.",
+      "date": "2026-06-21",
+      "time": "15:30",
+      "icon": "⚔",
+      "gameId": "kayowna"
+    },
+    {
+      "title": "Foret d'Elyna en developpement",
+      "description": "Les premieres zones de Kayowna prennent forme. La Foret d'Elyna sera l'une des premieres regions explorables du jeu avec ses quetes, creatures et personnages uniques.",
+      "date": "2026-06-21",
+      "time": "14:30",
+      "icon": "🌳",
+      "gameId": "kayowna"
+    },
+    {
       "title": "Gratt-Gratt Du R disponible",
       "description": "Gratt-Gratt Du R est maintenant disponible dans le Launcher Du R. Installez le jeu et tentez votre chance avec les tickets a gratter jusqu'a 1000 points a gagner.",
       "date": "2026-06-19",
