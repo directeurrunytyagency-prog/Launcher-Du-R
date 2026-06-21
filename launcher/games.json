@@ -67,18 +67,18 @@
       "nom": "Kayowna",
       "description": "MMORPG multijoueur en cours de developpement. Bientot disponible dans le Launcher Du R.",
       "version": "0.0.1",
-      "installedVersion": "0.0.1",
+      "installedVersion": "",
       "derniereVersion": "0.0.1",
-      "icone": "launcher/assets/kayowna.png",
-      "image": "launcher/assets/kayowna.png",
+      "icone": "launcher/assets/Kayowna.png",
+      "image": "launcher/assets/Kayowna.png",
       "githubOwner": "directeurrunytyagency-prog",
       "githubRepo": "Kayowna",
-      "assetName": "Kayowna-Windows-0.0.1.zip",
-      "exeName": "Kayowna.exe",
-      "installFolder": "dist/Kayowna-Windows",
-      "accent": "orange",
+      "assetName": "",
+      "exeName": "",
+      "installFolder": "",
+      "accent": "#ff8c00",
       "visible": true,
-      "enabled": true
+      "enabled": false
     }
   ]
 }
