@@ -65,7 +65,7 @@
     {
       "id": "kayowna",
       "nom": "Kayowna",
-      "description": "MMORPG multijoueur en cours de developpement. Bientot disponible dans le Launcher Du R.",
+      "description": "MMORPG multijoueur en cours de developpement. Le monde de Kayowna est actuellement en construction.",
       "version": "0.0.1",
       "installedVersion": "",
       "derniereVersion": "0.0.1",
@@ -77,6 +77,7 @@
       "exeName": "",
       "installFolder": "",
       "accent": "#ff8c00",
+      "status": "development",
       "visible": true,
       "enabled": false
     }
